@@ -6,4 +6,4 @@ This app should be able to perform crud operations with Patients Vital Signs inf
 
 There should also be a provision for User Accounts 
 
-###Recomended stack for Development is MERN (MongoDB, Express, React, Node)
+### Recomended stack for Development is MERN (MongoDB, Express, React, Node)
